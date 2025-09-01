@@ -1,1 +1,3 @@
-# typescript-practice
+# TypeScript Practice
+
+(chore: init project)
